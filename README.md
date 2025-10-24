@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm Daria</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia 🇷🇺</h3>
+<h3 align="center">Junior backend engineer from Moscow</h3>
 
+
+<p1 align="center">My tools<p1>
+<p2>Databases:<p2>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <!--
 **voznikaetnepriyazn/voznikaetnepriyazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
